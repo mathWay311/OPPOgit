@@ -34,6 +34,7 @@ double my_pow(double num, int deg)
 
         return result;
     }
+
 }
 
 int main()
